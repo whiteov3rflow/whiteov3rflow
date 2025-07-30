@@ -1,4 +1,4 @@
-### Learning useless things on internet
+### About me 
 ```python
 class SecurityEnthusiast:
     def __init__(self):
@@ -29,7 +29,7 @@ class SecurityEnthusiast:
     def get_current_focus(self):
         return "Designing CTF challenges at Hackin.fr"
         
-    def say_hello(self):
+    def say_lakaka(self):
         return "Always happy to collaborate on security projects!"
 
 ```
