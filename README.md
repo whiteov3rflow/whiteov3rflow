@@ -4,7 +4,6 @@ class SecurityEnthusiast:
     def __init__(self):
         self.username = "it_rez"
         self.role = "Cybersecurity Enthusiast & Master's Student"
-        self.location = "Aix-en-Provence, France"
         self.education = "Master's at Ynov Aix-en-Provence"
         self.current_position = "Security Intern @ Hackin.fr"
         
@@ -24,7 +23,6 @@ class SecurityEnthusiast:
         
         self.certifications = ["OSCP"]
         self.currently_learning = ["Advanced AD Exploitation", "Red-Teaming"]
-        self.current_research = "Security research on open source applications"
         
     def get_current_focus(self):
         return "Designing CTF challenges at Hackin.fr"
