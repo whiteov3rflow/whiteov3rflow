@@ -4,8 +4,7 @@ class SecurityEnthusiast:
     def __init__(self):
         self.username = "it_rez"
         self.role = "Cybersecurity Enthusiast & Master's Student"
-        self.education = "Master's at Ynov Aix-en-Provence"
-        self.current_position = "Security Intern @ Hackin.fr"
+        self.current_position = "Looking for a job "
         
         self.contacts = {
             "discord": "_itsrez",
