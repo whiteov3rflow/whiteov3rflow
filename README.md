@@ -14,10 +14,9 @@ class SecurityEnthusiast:
         }
         
         self.passions = [
-            "Red Team Operations",
             "Active Directory Security", 
             "Penetration Testing",
-            "Security Research"
+            "Web Security Research"
         ]
         
         self.certifications = ["OSCP","CWES"]
