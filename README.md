@@ -3,8 +3,8 @@
 class SecurityEnthusiast:
     def __init__(self):
         self.username = "it_rez"
-        self.role = "Cybersecurity Enthusiast & Master's Student"
-        self.current_position = "Looking for a job "
+        self.role = "Offensive security Enthusiast"
+        self.current_position = "127.0.0.1"
         
         self.contacts = {
             "discord": "_itsrez",
@@ -20,11 +20,11 @@ class SecurityEnthusiast:
             "Security Research"
         ]
         
-        self.certifications = ["OSCP"]
-        self.currently_learning = ["Advanced AD Exploitation", "Red-Teaming"]
+        self.certifications = ["OSCP","CWES"]
+        self.currently_learning = ["AD Exploitation", "Web Security"]
         
     def get_current_focus(self):
-        return "Designing CTF challenges at Hackin.fr"
+        return "Looking for a Job"
         
     def say_lakaka(self):
         return "Always happy to collaborate on security projects!"
