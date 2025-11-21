@@ -2,7 +2,7 @@
 ```python
 class SecurityEnthusiast:
     def __init__(self):
-        self.username = "it_rez"
+        self.username = "itsrez"
         self.role = "Offensive security Enthusiast"
         self.current_position = "127.0.0.1"
         
