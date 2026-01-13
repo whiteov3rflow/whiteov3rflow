@@ -3,7 +3,7 @@
 class SecurityEnthusiast:
     def __init__(self):
         self.username = "itsrez"
-        self.role = "Offensive security Enthusiast"
+        self.role = "TBD"
         self.current_position = "127.0.0.1"
         
         self.contacts = {
