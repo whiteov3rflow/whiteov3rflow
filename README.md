@@ -23,7 +23,7 @@ class SecurityEnthusiast:
         self.currently_learning = ["AD Exploitation", "Web Security"]
         
     def get_current_focus(self):
-        return "Looking for a Job"
+        return "Building and Breaking stuff at InSec"
         
     def say_lakaka(self):
         return "Always happy to collaborate on security projects!"
